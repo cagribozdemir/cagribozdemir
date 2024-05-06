@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cagribozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="cagribozdemir" /> </p>
 
-- 🔭 I’m currently working on **microservices project**
-
-- 🌱 I’m currently learning **Spring Boot**
+- 🔭 I’m currently working on **CRM Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cagribozdemir?tab=repositories](https://github.com/cagribozdemir?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@cagribozdemir0](https://medium.com/@cagribozdemir0)
 
-- 💬 Ask me about **Java Spring Boot, .Net and Microservice Architecture**
+- 💬 Ask me about **ASP.Net, Java Spring**
 
 - 📫 How to reach me **cagribozdemir0@gmail.com**
 
